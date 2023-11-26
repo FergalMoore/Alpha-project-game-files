@@ -1,0 +1,101 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void Button_RestartGame_mE848F7F57E039E86104F90ACFEBA9D276081E1E9 (void);
+extern void Button__ctor_m6CC103D3CBE7ABCDC685DCC02F320D62DCC05D16 (void);
+extern void CameraController_Start_m8EAAC188934ECCBD009EC00751280DCFF4D96C71 (void);
+extern void CameraController_LateUpdate_mC14DB0924E6F67288113AA92B3345A9B0ACEA27F (void);
+extern void CameraController__ctor_mE196A6332BDDED632D6F9DB6260E424594598950 (void);
+extern void PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF (void);
+extern void PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33 (void);
+extern void PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0 (void);
+extern void PlayerController_OnControllerColliderHit_mB9D9455724125CEA5B8C3F3A8DD4A034CB186AE3 (void);
+extern void PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33 (void);
+extern void PlayerManager_Start_mD4281A9FA4F173B0A41018EA2F11F09281E574BE (void);
+extern void PlayerManager_Update_mCCCF3148479BAF4FF7E179FDD537858CEECA3AFB (void);
+extern void PlayerManager__ctor_mEDEFFACDDE66D7077DE8CDED6560CA06218B5A0E (void);
+extern void RoadManager_Start_m5D922F14624C801E0D50BB8E2A3F56B1B61CFE7D (void);
+extern void RoadManager_Update_m7D5F34DAF5AC24C2CE7991554AF74CF2F5FE7E74 (void);
+extern void RoadManager_SpawnRoad_m45A581B620EC88AB3B7F231EB6698BEE7DE47A86 (void);
+extern void RoadManager_DeleteRoad_m5F6CDAD3C737E2D8157BD9F88FCD4B1AB117D0A3 (void);
+extern void RoadManager__ctor_m49A8470F12FF14F5C47704C6C86C6C7A65A7A5C7 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[20] = 
+{
+	Button_RestartGame_mE848F7F57E039E86104F90ACFEBA9D276081E1E9,
+	Button__ctor_m6CC103D3CBE7ABCDC685DCC02F320D62DCC05D16,
+	CameraController_Start_m8EAAC188934ECCBD009EC00751280DCFF4D96C71,
+	CameraController_LateUpdate_mC14DB0924E6F67288113AA92B3345A9B0ACEA27F,
+	CameraController__ctor_mE196A6332BDDED632D6F9DB6260E424594598950,
+	PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF,
+	PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33,
+	PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0,
+	PlayerController_OnControllerColliderHit_mB9D9455724125CEA5B8C3F3A8DD4A034CB186AE3,
+	PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33,
+	PlayerManager_Start_mD4281A9FA4F173B0A41018EA2F11F09281E574BE,
+	PlayerManager_Update_mCCCF3148479BAF4FF7E179FDD537858CEECA3AFB,
+	PlayerManager__ctor_mEDEFFACDDE66D7077DE8CDED6560CA06218B5A0E,
+	RoadManager_Start_m5D922F14624C801E0D50BB8E2A3F56B1B61CFE7D,
+	RoadManager_Update_m7D5F34DAF5AC24C2CE7991554AF74CF2F5FE7E74,
+	RoadManager_SpawnRoad_m45A581B620EC88AB3B7F231EB6698BEE7DE47A86,
+	RoadManager_DeleteRoad_m5F6CDAD3C737E2D8157BD9F88FCD4B1AB117D0A3,
+	RoadManager__ctor_m49A8470F12FF14F5C47704C6C86C6C7A65A7A5C7,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[20] = 
+{
+	4429,
+	4429,
+	4429,
+	4429,
+	4429,
+	4429,
+	4429,
+	4429,
+	3566,
+	4429,
+	4429,
+	4429,
+	4429,
+	4429,
+	4429,
+	3541,
+	4429,
+	4429,
+	6374,
+	4429,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	20,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
